@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Softtrends\Src\Working\MarketingConnector\AWSTestApp\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-10-17T09:12:13.4261499Z;True|2024-10-17T14:32:18.9347495+05:30;True|2024-10-17T12:50:33.5629359+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
